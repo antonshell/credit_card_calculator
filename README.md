@@ -1,3 +1,5 @@
+# Credit Cards Calculator
+
 Very simple Credit Cards Calculator
 
 See [**Demo**][1] for more details
